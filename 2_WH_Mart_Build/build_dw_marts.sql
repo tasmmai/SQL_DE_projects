@@ -6,3 +6,7 @@
 
 --2 --> load data from csv files to tables
 .read 02_load_schema_dw.sql
+
+
+--3 --> creating flat mart of job postings for simpler querying
+.read 03_create_flat_mart.sql
