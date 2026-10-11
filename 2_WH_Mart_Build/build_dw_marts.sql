@@ -10,3 +10,6 @@
 
 --3 --> creating flat mart of job postings for simpler querying
 .read 03_create_flat_mart.sql
+
+--4 --> creating star schema mart for skill_mart
+.read 04_create_skills_mart.sql
